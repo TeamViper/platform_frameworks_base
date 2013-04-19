@@ -1819,4 +1819,7 @@
 
   <!-- From PinyinIME(!!!) -->
   <java-symbol type="string" name="inputMethod" />
+
+  <!-- Viper Add-ons -->
+  <java-symbol type="bool" name="config_samsung_stk" />
 </resources>
